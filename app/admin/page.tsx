@@ -1469,7 +1469,7 @@ const sortedTickets = getSortedTickets()
                 <CardContent className="space-y-4">
                   <div>
                     <Label>Spreadsheet ID</Label>
-                    <Input placeholder="Enter Google Sheets ID" />
+                    <Input placeholder="17PsU9xBDvXaZBtUtNo5ABAvdJOnATropbFkIxEiGuLE" />
                   </div>
                   <div>
                     <Label>Service Account Key</Label>
