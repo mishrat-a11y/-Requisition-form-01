@@ -39,7 +39,7 @@ class GoogleSheetsService {
 
   private initializeConfig() {
     this.config = {
-      spreadsheetId: "1OShk01LUXySNK93ZXMk5NWARXWkNlnTjdCXooIHhQ5U",
+      spreadsheetId: "17PsU9xBDvXaZBtUtNo5ABAvdJOnATropbFkIxEiGuLE",
       serviceAccountKey: {
         type: "service_account",
         project_id: "pelagic-range-466218-p1",
